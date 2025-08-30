@@ -1,1 +1,1 @@
-it monitor the remotes GNSS sites on the map, using the ping command. Run the sed_kod.sh for the installation and read the outputs.
+it monitors the remote GNSS sites on the map, using the ping command. Run the sed_kod.sh for the installation and read the outputs.
